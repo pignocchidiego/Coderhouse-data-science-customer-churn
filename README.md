@@ -139,7 +139,6 @@ Coderhouse-data-science-customer-churn/
 
 - [Dataset original](data/raw/)
 - [Notebook de Machine Learning](notebooks/Proyecto_Final_Customer_Churn_GitHub.ipynb)
-- [Informe final del proyecto](docs/Proyecto%20Final_Coderhouse_DiegoPignocchi.pdf)
 
 ## 12. Autor
 
